@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dimago | Контакты</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container nav">
+<a href="index.html">Главная</a>
+<a href="about.html">О Дмитрие</a>
+<a href="projects.html">Проекты</a>
+<a href="news.html">Новости</a>
+<a href="contact.html">Контакты</a>
+</div>
+
+<div class="container">
+<h1>Контакты</h1>
+<p>Email: <a href="mailto:Dimagorabotaet@icloud.com">Dimagorabotaet@icloud.com</a></p>
+
+<h2>Форма обратной связи</h2>
+<form action="mailto:Dimagorabotaet@icloud.com" method="post" enctype="text/plain">
+<input type="text" name="Имя" placeholder="Ваше имя" required>
+<input type="email" name="Email" placeholder="Ваш Email" required>
+<textarea name="Сообщение" placeholder="Ваше сообщение" rows="5" required></textarea>
+<button type="submit">Отправить</button>
+</form>
+
+<h2>Соцсети / Spotify</h2>
+<p>
+<a href="https://www.instagram.com/dimagolte?igsh=MXR3NDY5Z3NtN29qMg%3D%3D&utm_source=qr">Instagram</a> |
+<a href="https://x.com/dimagoizch?s=21">X</a> |
+<a href="https://www.tiktok.com/@dimagomarch_offical?_r=1&_t=ZS-93uNwsyJhGX">TikTok</a> |
+<a href="https://vk.ru/dimagolte">VK</a> |
+<a href="https://vk.ru/cancerhammers">VK Cancer Hammers</a>
+</p>
+
+</div>
+<footer>© 2026 Dimago | Код MIT License | Контент CC BY-NC 4.0</footer>
+</body>
+</html>
+
+

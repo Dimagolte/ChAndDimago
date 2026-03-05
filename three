@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dimago | Проекты</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container nav">
+<a href="index.html">Главная</a>
+<a href="about.html">О Дмитрие</a>
+<a href="projects.html">Проекты</a>
+<a href="news.html">Новости</a>
+<a href="contact.html">Контакты</a>
+</div>
+
+<div class="container">
+<h1>Проекты</h1>
+
+<h2>Dimago</h2>
+<img src="https://avatars.yandex.net/get-music-content/17681324/319423f9.p.25195358/300x300" alt="Dimago">
+<p>Жанры: рок, альтернативный рок, панк рок, хард рок, немного электроники<br>Начало проекта: август 2025, первый EP: 1 октября 2025<br>Стриминг:
+<a href="https://open.spotify.com/artist/7HzCratSvkCsP10SKTxkL6?si=xi678SXeSJ-ayz-JBu9pQQ">Spotify</a>
+</p>
+
+<h2>Cancer Hammers</h2>
+<img src="https://avatars.yandex.net/get-music-content/18172800/eb3043e5.p.24823099/300x300" alt="Cancer Hammers">
+<p>Жанры: рок, альтернативный рок, панк рок, хард рок, русский рок<br>Дата основания: 19.12.2025<br>Участники: Дмитрий Марченко — вокал, гитара; Лев Ленинг — бас<br>Стриминг:
+<a href="https://open.spotify.com/artist/4qcM91DjO4tz7yS4cz8Upi?si=2ROjMqr4RB6s0v06LeCc0A">Spotify</a>
+</p>
+
+</div>
+<footer>© 2026 Dimago | Код MIT License | Контент CC BY-NC 4.0</footer>
+</body>
+</html>

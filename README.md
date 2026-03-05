@@ -75,7 +75,7 @@ a:hover {
 <p><strong>Dimago</strong> — solo project.</p>
 
 <h2 id="contact">Contact</h2>
-<p>Email: your@email.com</p>
+<p>Email: Dimagorabotaet@icloud.com</p>
 </div>
 </body>
 </html>

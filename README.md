@@ -18,8 +18,7 @@
     "name": "Cancer Hammers"
   },
   "sameAs": [
-    "https://musicbrainz.org/artist/ТВОЙ-ID",
-    "https://www.wikidata.org/wiki/ТВОЙ-ID"
+    
   ]
 }
 </script>
